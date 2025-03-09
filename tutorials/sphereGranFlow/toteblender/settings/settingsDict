@@ -33,4 +33,4 @@ writeFormat				 ascii;                  // data writting format (ascii or binary
 
 timersReport 			 Yes;  	                 // report timers (Yes or No)
 
-timersReportInterval     0.02;	                 // time interval for reporting timers
+timersReportInterval     0.020;	                 // time interval for reporting timers
