@@ -27,7 +27,7 @@ setFields
 		shapeName 		word	sphere1;         // name of the particle shape 	
 	}
 
-	selectors
+    selectors
 	{}
 }
 
