@@ -12,15 +12,15 @@ rotatingAxisInfo                                 // information for rotatingAxis
 {
 	axisOfRotation 
 	{
-		p1            (-0.1 0.0 0.15);	         // first point for the axis of rotation 
+		p1            (-0.1 0.0 0.15);	             // first point for the axis of rotation 
 
-		p2            (0.1 0.0 0.15);	         // second point for the axis of rotation
+		p2            (0.1 0.0 0.15);	               // second point for the axis of rotation
 		
-		omega         1.5708; 		             // rotation speed ==> 15 rad/s
+		omega         1.5708; 		                   // rotation speed ==> 15 rad/s
 			
-		startTime     0.5;                       // Start time of Geometry Rotating (s) 
+		startTime     0.5;                           // Start time of Geometry Rotating (s) 
 		
-		endTime       9.5;                       // End time of Geometry Rotating (s)
+		endTime       9.5;                           // End time of Geometry Rotating (s)
 	}
 }
 
